@@ -1,6 +1,6 @@
 # 90-Day AI Automation Sprint
 
-I'm Faizul — a Product Specialist at JLL by day, and currently on a structured 90-day sprint to build, ship, and sell AI automation tools for small businesses.
+I'm Faizul — a Product Specialist at a Commercial Real Estate company by day, and currently on a structured 90-day sprint to build, ship, and sell AI automation tools for small businesses.
 
 The goal is simple: build real things, find real clients, and document everything publicly.
 
