@@ -4,7 +4,7 @@ I'm Faizul — a Product Specialist at a Commercial Real Estate company by day, 
 
 The goal is simple: build real things, find real clients, and document everything publicly.
 
-**Sprint started:** 7 June 2025 &nbsp;|&nbsp; **Target:** First client by Day 90
+**Sprint started:** 1 June 2025 &nbsp;|&nbsp; **Target:** First client by Day 90
 
 ---
 
