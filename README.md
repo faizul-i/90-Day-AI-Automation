@@ -1,2 +1,8 @@
-# 90-Day-AI-Automation
-Learning AI Automation during a 90-Day sprint 2026
+# 90-Day AI Automation Sprint
+
+Building AI automation tools from scratch. Goal: land first client by Day 90.
+
+## Builds
+| # | Project | Status | Live Demo |
+|---|---------|--------|-----------|
+| 001 | AI Enquiry Qualifier — London Estate Agents | In Progress | Coming soon |
